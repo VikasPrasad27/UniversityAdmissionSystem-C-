@@ -37,9 +37,9 @@ Total Fees: ₹90,000
 ## 📸 Sample Outputs
 Below are sample screenshots demonstrating the console execution and generated files from the University Admission System.
 
-![Console Input and Output](output1.png)
-![Console Input and Output](output2.png)
+![Console Input and Output](outputs/output1.png)
+![Console Input and Output](outputs/output2.png)
 
-![Generated Admission File](fileoutput.png)
+![Generated Admission File](outputs/fileoutput.png)
 
-![Program-wise Student List](fileoutput2.png)
+![Program-wise Student List](outputs/fileoutput2.png)
