@@ -1,0 +1,10 @@
+Name: vikas prasad
+Father's Name: Father
+Aadhar: 787878789809
+12th Percentage: 77% (Sate)
+Entrance Exam: CET - 90%
+Merit: 86.1%
+Program: B.Tech CSE
+Scholarship: 40%
+Fees to Pay: 90000
+------------------------------
